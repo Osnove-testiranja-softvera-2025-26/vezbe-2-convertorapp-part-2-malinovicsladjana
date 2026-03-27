@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    // Ovo je komentar
+    // Ovo je komentar novi
     public class MassConventer : IConvert
     {
         public double Convert(double value)
